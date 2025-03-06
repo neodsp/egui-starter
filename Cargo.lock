@@ -921,7 +921,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "egui-demo"
+name = "egui-starter"
 version = "0.1.0"
 dependencies = [
  "eframe",
